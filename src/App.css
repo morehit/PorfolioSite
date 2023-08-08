@@ -268,7 +268,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   border-right: 0.08em solid #666;
 }
 
-/* ************ Skills Css ************/ */
+/* ************ Skills Css *********** */
 .skill {
   padding: 0 0 50px 0;
   position: relative;
@@ -357,7 +357,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
     position: absolute;
     width: 0;
     height: 100%;
-    background: linear-gradient(90.21deg, #AA367C -5.91%, #4A2FBD 111.58%);
+    background: linear-gradient(90.21deg, #13f447b0 -5.91%, #cdfbd9a1 111.58%);
     top: 0;
     left: 0;
     z-index: -1;
@@ -389,7 +389,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 }
 .proj-imgbx::before {
   content: "";
-  background: linear-gradient(90.21deg, #AA367C -5.91%, #4A2FBD 111.58%);
+  background: linear-gradient(90.21deg, #13f447b0 -5.91%, #cdfbd9a1 111.58%);
   opacity: 0.85;
   position: absolute;
   width: 100%;
